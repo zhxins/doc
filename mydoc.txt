@@ -1,1 +1,4 @@
 https://leetcode-cn.com/problemset/algorithms/
+
+-# python 学习
+https://blog.csdn.net/c406495762/article/list/3?
